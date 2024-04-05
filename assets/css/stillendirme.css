@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+ }
+
+ .conteiner {
+    width: 1110px;
+    height: 349px;
+    background-color: #121212;
+    border-radius: 15px;
+    display: flex;
+ 
+gap: 140px;
+
+}
+
+.büyükYazi {
+    width: 426px;
+    margin-top: 83px;
+    margin-left: 96px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0,4000000000000px;
+    text-align: left;
+    color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.button {
+    width: 280px;
+    height: 64px;
+    background-color: red;
+    border-radius: 3px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    font-weight: 600px;
+    line-height: 32px;
+    text-align: center;
+    color: azure;
+}
+
+
+
+ 
+
+ 
